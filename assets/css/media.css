@@ -1,0 +1,215 @@
+@media screen and (max-width:1000px){
+    .header{
+        padding-bottom: 30px;
+        height: 770px;
+    }
+    .header article{
+        width: 95%;
+    }
+    .nav{
+        padding: 5px 0;
+    }
+    .nav .logo{
+        font-size: 25px;
+    }
+    .nav .navs{
+       display: none; 
+    }  
+    .nav .open{
+        font-size: 22px;
+    } 
+    .header article .home{
+        width: 95%;
+    }
+    .header article .home h1{
+        font-size: 30px;
+    }
+    .header article .img{
+        width: 100%;
+        height: 350px;
+    }
+    .header article .home p{
+        font-size: 20px;
+    }
+    .header article .home a,.header article .home button{
+        font-size: 18px;
+    }
+    .header article .home a i,.header article .home button i{
+        font-size: 18px;
+    }
+    /* ============================================ */
+    .plan-lang aside,.plan-cont aside{
+        margin:0 ;
+    }
+    .plan-lang aside h2,.plan-cont aside h2{
+        font-size: 23px;
+        z-index: 99;
+    }
+    .plan-lang .img,.plan-cont .img{
+        margin-top:-40px ;
+        width: 100%;
+        height: 350px; 
+    }
+    .plan-lang aside a,.plan-cont aside a,.plan-lang aside button,.plan-cont aside button{
+        font-size: 18px;
+        z-index: 99;
+    }
+    .plan-lang,.plan-cont{
+        padding: 20px 0;
+    }
+    .plan-lang article img{
+        width: 40px;
+        height: 40px;
+    }
+    .plan-lang article p{
+        font-size: 18px;
+    }
+    .plan-lang article a,.plan-lang article button{
+        font-size: 18px;
+        height:35px;
+        width: 50px;
+    }
+    .r{
+        border:0;
+    }
+    .hh{
+        height: 80px !important;
+    }
+    /* =============================================== */
+    .plan-cont article{
+        margin: 10px ;
+        width: 200%;
+        text-align: center;
+    }
+    .plan-cont .top{
+        flex-direction: column;
+    }
+    .plan-cont article img{
+        width: 50px;
+        height: 50px;
+    }
+    .plan-cont article p{
+        font-size: 18px;
+        color: var(--color);
+        margin: 10px 0;
+    }
+    .plan-cont article a{
+        font-size: 18px;
+    }
+    /*===============================================  */
+    footer{
+        padding:8x;
+    }
+    footer p{
+        font-size: 18px;
+    }
+    footer nav a{
+        width: 30px;
+        height: 30px;
+        font-size: 18px;
+    }
+    /* ================================================ */
+    .all-lang h2,.all-cont h2{
+        font-size: 25px;
+        margin-top: 0;
+    }
+    .all-lang h2::after,.all-cont h2::after{
+        width: 50px;
+    }
+    .all-lang article{
+        margin: 10px 0;
+        padding: 10px ;
+    }
+    .all-lang article img{
+        width: 40px;
+        height: 40px;
+    }
+    .all-lang article p{
+        font-size: 18px;
+        margin: 10px ;
+    }
+    .all-lang article a, .all-lang article button{
+        font-size: 18px;
+        height:40px;
+        width: 60px;
+    }
+    /* ========================================================= */
+    .all-cont article{
+        height: 210px;
+        width: 100%;
+    }
+    .plan-cont .top{
+        flex-direction: column;
+    }
+    .all-cont article img{
+        width: 60px;
+        height: 60px;
+        margin: 10px 0;
+    }
+    .all-cont article p{
+        font-size: 22px;
+        margin: 10px 0;
+    }
+    .all-cont article a,  .all-cont article button{
+        padding: 5px 15px;
+        font-size: 20px;
+    }
+    /* ==================================================== */
+    .one-lang{
+        padding: 15px 0;
+    }
+    .line .title {
+      margin-bottom: 22px;
+    }
+    .icon-box {
+        font-size: 18px;
+    }
+    .title h3{
+        margin-right: 12px;
+    }
+    .line-list {
+      font-size: 18px;
+      margin-left: 0;
+    }
+    
+    .line-item:not(:last-child) { margin-bottom: 15px; }
+    
+    .line-list span {
+      line-height: 1.3;
+    }
+    
+    .line-item::after {
+      height: 7px;
+      width: 7px;
+    }
+    
+    .chanl h3{
+        font-size: 20px;
+    }
+    .chanl ul{
+        padding: 10px;
+    }
+    .chanl ul li p{
+        font-size: 18px;
+        margin: 8px;
+    }
+    .chanl ul li a{
+        padding: 5px 15px;
+        font-size: 16px;
+    }
+    /* ==================================== */
+    .e404 article img{
+        width: 100%;
+        height: 300px;
+    }
+    .e404 article h1{
+        font-size: 28px;
+        margin:-35px 10px 0;
+    }
+    .e404 article a{
+        width: 180px;
+        margin: 20px auto;
+        padding: 8px;
+        font-size: 18px;
+    }
+}

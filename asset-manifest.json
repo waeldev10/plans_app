@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/plans_app/static/js/main.580d8650.js",
+    "index.html": "/plans_app/index.html",
+    "main.580d8650.js.map": "/plans_app/static/js/main.580d8650.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.580d8650.js"
+  ]
+}
